@@ -1,1 +1,3 @@
 s4 to test fetch
+!#/bin/bash
+echo $SHELL
