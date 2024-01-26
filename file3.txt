@@ -1,4 +1,3 @@
 this is file3
 NEW line
-<<<<<<< HEAD
-LineLast
+Line1LineLast
