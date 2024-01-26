@@ -1,6 +1,4 @@
 this is file3
 NEW line
 <<<<<<< HEAD
-Line2
-=======
->>>>>>> parent of a92ed89... file1
+LineLast
